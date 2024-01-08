@@ -1,4 +1,7 @@
-def add (a, b)
-return a + b
-rresult = add (a + b)
-print (result)
+def add(a, b):
+    return a + b
+
+a = 1
+b = 2
+result = add(a, b)
+print(result)
